@@ -4,6 +4,7 @@ primebox is a collection of various algorithms related to number theory. Current
 
 | Package | Class | Description |
 | :------ | :---- | :---------- |
+| com.aliyurekli.primebox.gcd | BinaryGcd | Implementation of Stein's binary gcd algorithm |
 | com.aliyurekli.primebox.gcd | DivisiveEuclidGcd | Implementation of division-based Euclid's gcd algorithm |
 | com.aliyurekli.primebox.gcd | SubtractiveEuclidGcd | Implementation of subtraction-based Euclid's gcd algorithm |
 | com.aliyurekli.primebox.primality | FermatPrimality | Implementation of Fermat's probabilistic primality test |
